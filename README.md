@@ -1,2 +1,14 @@
 # www-sy-lab
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
